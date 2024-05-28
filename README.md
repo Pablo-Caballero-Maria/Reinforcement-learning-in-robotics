@@ -24,7 +24,7 @@ Several reinforcement learning algorithms, including **Q-Learning**, **SARSA**, 
 - `resources`: Other files used in the project
 - `src/`: This directory contains the source code of the project.
   - `main.ipynb`: Main script of the project.
-  - `Project statement.pdf/`: A longer statement of the project.
+  - `Project statement.pdf`: A longer statement of the project.
 - `.gitignore`: Folders not to include in the repository
 - `README.md`: A briefing of the project and how to run it.
 - `requirements.txt`: List of Python dependencies of the project.

@@ -27,5 +27,5 @@ jobs:
 
     - name: Run tests
       run: |
-        jupyter nbconvert --to script main.ipynb
+        jupyter nbconvert --to script src/main.ipynb
         python main.py

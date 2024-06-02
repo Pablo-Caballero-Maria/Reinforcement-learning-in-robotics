@@ -9,7 +9,7 @@
 4. [Installing Dependencies](#installing-dependencies)
 5. [Running the Project](#running-the-project)
 6. [Contact data](#contact-data)
-7. [License](#LICENSE.md)
+7. [License](LICENSE.md)
 
 ## Introduction
 

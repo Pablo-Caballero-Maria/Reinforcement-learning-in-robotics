@@ -1,5 +1,7 @@
 # Reinforcement learning in robotics
-
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/status-alpha-orange)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project structure](#project-structure)
@@ -7,7 +9,7 @@
 4. [Installing Dependencies](#installing-dependencies)
 5. [Running the Project](#running-the-project)
 6. [Contact data](#contact-data)
-7. [License](#license)
+7. [License](LICENSE.md)
 
 ## Introduction
 

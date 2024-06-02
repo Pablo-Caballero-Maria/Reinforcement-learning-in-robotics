@@ -1,4 +1,5 @@
 # Reinforcement learning in robotics
+[![Run Jupyter Notebook Tests](https://github.com/Pablo-Caballero-Maria/Reinforcement-learning-in-robotics/actions/workflows/main.yaml/badge.svg)](https://github.com/Pablo-Caballero-Maria/Reinforcement-learning-in-robotics/actions/workflows/main.yaml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-alpha-orange)

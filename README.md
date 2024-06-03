@@ -77,7 +77,6 @@ This will install all the necessary packages for this project.
 To run each cell of the notebook, click the "play" button next to the cell:
 
 ![Play button](resources/play.png)
-<a href="#top">Back to Top</a>
 
 Or simply click
 
@@ -88,3 +87,5 @@ shift enter
 ## Contact data
 
 If you have any request or inquiry, feel free to contact me at [pabcabmar3@alum.us.es](mailto:pabcabmar3@alum.us.es)
+
+<a href="#top">Back to Top</a>

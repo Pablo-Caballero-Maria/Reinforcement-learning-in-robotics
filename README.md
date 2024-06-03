@@ -1,9 +1,14 @@
+<a name="top"></a>
+
 # Reinforcement learning in robotics
 [![Run Jupyter Notebook Tests](https://github.com/Pablo-Caballero-Maria/Reinforcement-learning-in-robotics/actions/workflows/main.yaml/badge.svg)](https://github.com/Pablo-Caballero-Maria/Reinforcement-learning-in-robotics/actions/workflows/main.yaml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
-## Table of Contents
+
+<details>  
+<summary><b>Table of contents</b></summary>
+  
 1. [Introduction](#introduction)
 2. [Project structure](#project-structure)
 3. [Setting Up a Virtual Environment](#setting-up-a-virtual-environment)
@@ -11,6 +16,7 @@
 5. [Running the Project](#running-the-project)
 6. [Contact data](#contact-data)
 7. [License](LICENSE.md)
+</details>
 
 ## Introduction
 
@@ -57,6 +63,7 @@ source venv/bin/activate
 ```
 
 ## Installing Dependencies
+
 Once the virtual environment is activated, you can install the project's dependencies using the `requirements.txt` file. Run the following command:
 
 ```bash
@@ -66,9 +73,11 @@ pip install -r requirements.txt
 This will install all the necessary packages for this project.
 
 ## Running the Project
+
 To run each cell of the notebook, click the "play" button next to the cell:
 
 ![Play button](resources/play.png)
+<a href="#top">Back to Top</a>
 
 Or simply click
 

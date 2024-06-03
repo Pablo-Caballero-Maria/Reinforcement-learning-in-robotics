@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Reinforcement learning in mobile robotics"
+authors:
+  - family-names: "Caballero María"
+    given-names: "Pablo"
+date-released: 2024-06-03
+url: "https://github.com/Pablo-Caballero-Maria/Reinforcement-learning-in-robotics"
+version: "1.0.0"
+license: "MIT"
